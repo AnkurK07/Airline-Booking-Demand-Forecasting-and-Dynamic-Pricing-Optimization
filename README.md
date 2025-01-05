@@ -1,4 +1,4 @@
-# Airline-Booking-Demand-Forecasting-and-Dynamic-Pricing-Optimization
+# Airline Booking Demand Forecasting and-Dynamic Pricing Optimization
 
 ![image](https://github.com/user-attachments/assets/4fac46b2-333e-431e-9414-a26f72a9b47c)
 
